@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\git-takes-two\\helloapp-black\\HelloApp\\HelloApp\\HelloApp.csproj": {}
+    "E:\\git-takes-two\\helloapp-white\\HelloApp\\HelloApp\\HelloApp.csproj": {}
   },
   "projects": {
-    "E:\\git-takes-two\\helloapp-black\\HelloApp\\HelloApp\\HelloApp.csproj": {
+    "E:\\git-takes-two\\helloapp-white\\HelloApp\\HelloApp\\HelloApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\git-takes-two\\helloapp-black\\HelloApp\\HelloApp\\HelloApp.csproj",
+        "projectUniqueName": "E:\\git-takes-two\\helloapp-white\\HelloApp\\HelloApp\\HelloApp.csproj",
         "projectName": "HelloApp",
-        "projectPath": "E:\\git-takes-two\\helloapp-black\\HelloApp\\HelloApp\\HelloApp.csproj",
+        "projectPath": "E:\\git-takes-two\\helloapp-white\\HelloApp\\HelloApp\\HelloApp.csproj",
         "packagesPath": "C:\\Users\\ALEX\\.nuget\\packages\\",
-        "outputPath": "E:\\git-takes-two\\helloapp-black\\HelloApp\\HelloApp\\obj\\",
+        "outputPath": "E:\\git-takes-two\\helloapp-white\\HelloApp\\HelloApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALEX\\AppData\\Roaming\\NuGet\\NuGet.Config",
